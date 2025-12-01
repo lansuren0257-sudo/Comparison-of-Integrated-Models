@@ -1,0 +1,5 @@
+{
+  "name": "Ensemble Stacking Visualizer",
+  "description": "A comparative dashboard to visualize and analyze the performance differences between standard Ensemble Learning (Voting/Bagging) and Stacking Ensemble methods, powered by Gemini analysis.",
+  "requestFramePermissions": []
+}
